@@ -1,0 +1,1 @@
+En un principio solamente estaba el texto "readme" y luego he creado las carpetas adivinanzas, chistes, refranes y trabalenguas y en cada uno he añadido unos pocos documentos de texto
